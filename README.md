@@ -1,4 +1,4 @@
-# 热点流量 · HotspotMeter
+# 热点流量监控 · HotspotMeter
 
 在 Mac 菜单栏查看 iPhone 个人热点的实时网速和累计用量。选定热点后，连接时自动开始统计，切换到其他 Wi‑Fi 时自动停止。
 
